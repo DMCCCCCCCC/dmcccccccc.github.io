@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pungor</title>
+    <style>
+        #box {
+            width: 200px;
+            height: 200px;
+            background: purple;
+        }
+    </style>
+</head>
+<body>
+    <h1>
+        ¿Quieres ir a ver Barbenheimer con tu novio hermoso?
+    </h1>
+    <img src="barbieheimer.jpeg" width="400">
+    <br>
+    <button>
+        Da click para amarme
+    </button>
+    <br>
+    <br>
+    <button>
+        Da click para aceptar
+    </button>
+    <br>
+    <br>
+    <a href="https://www.invitacion_a_mi_novia_hermosa_bo.com"></a>
+</body>
+</html>
